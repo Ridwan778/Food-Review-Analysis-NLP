@@ -6,7 +6,7 @@
 1. Install Anaconda if already not installed. Visit this page for more information on how to do that - https://docs.anaconda.com/free/anaconda/install/windows.html
 2. Open Jupiter Notebook from inside Anaconda and navigate to the project repository.
 3. Open the food_review_sentiment_analysis.ipynb file to run the program.
-4. 
+   
 ## Construction:
 1. We used NLTK libraries' pre-trained sentiment analyzer VADER to classify whether a review was positive or negative.
 2. Then we compared this classified data with user ratings(1-5 stars) using a scatterplot to see how well the VADER model performs.
