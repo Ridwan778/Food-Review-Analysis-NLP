@@ -1,4 +1,4 @@
-# Feedback Analysis using NLP
+# Food Review Analysis using NLP
 
 ## The goal of this project was to explore how well the VADER module from the NLTK toolkit performs in identifying good and bad reviews.
 
